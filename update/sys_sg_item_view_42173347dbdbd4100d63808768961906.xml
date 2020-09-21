@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>priority-41928,number-45539,short_description-32753,u_requested_for.name-7686,u_requested_for.avatar-52611,u_request_type-39952</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_ignore":true,"Id":41927,"Margin":{"Left":8},"TextColor":"#333e3f","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":10,"Name":"Font Awesome 5 Pro Regular"}},{"Type":"Text","studio_template_field_id":"E1","Id":41928,"Margin":{"Left":6,"Right":8,"Top":3,"Bottom":3},"Text":"PLACEHOLDER","CellId":"priority","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}],"Id":12259,"CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":20,"Margin":{}},{"Type":"ViewGroup","Margin":{"Top":6},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E2","Text":"${number}","TextColor":"#637274","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":45538},{"Type":"Text","studio_template_field_id":"E2","Margin":{"Left":4},"CellId":"number","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":45539}],"Id":12260},{"Type":"ViewGroup","Margin":{"Top":4},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E3","Text":"${short_description}","TextColor":"#637274","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":32752},{"Type":"Text","studio_template_field_id":"E3","Margin":{"Left":4},"CellId":"short_description","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":32753}],"Id":12261},{"Type":"ViewGroup","Margin":{"Top":4},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E4","Text":"${u_requested_for.name}","TextColor":"#637274","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":7685},{"Type":"Text","studio_template_field_id":"E4","Margin":{"Left":4},"CellId":"u_requested_for.name","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":7686}],"Id":12262},{"Type":"ViewGroup","Margin":{"Top":4},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E5","Text":"${u_request_type}","TextColor":"#637274","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":39950},{"Type":"Image","studio_template_field_id":"E6","Id":52611,"CornerRadius":12,"Height":24,"Width":24,"Margin":{"Left":5},"CellId":"u_requested_for.avatar","Scaling":"Fill"},{"Type":"Text","studio_template_field_id":"E5","Margin":{"Left":4},"CellId":"u_request_type","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":39952}],"Id":12263}],"Id":28090,"studio_card_id":"d89e1d45c7600010215c2f3bf4c26051"}</item_view_json>
+        <name>By Request Type Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 22:15:01</sys_created_on>
+        <sys_id>42173347dbdbd4100d63808768961906</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>By Request Type Item View</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_view_42173347dbdbd4100d63808768961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 22:20:47</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=42173347dbdbd4100d63808768961906"/>
+</record_update>
